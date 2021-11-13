@@ -1,0 +1,2 @@
+Welcome to Azure-Github Better Together Training
+I will show you here how the new files and there changes are managed in Github.
